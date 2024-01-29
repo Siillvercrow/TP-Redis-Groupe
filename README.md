@@ -2,7 +2,7 @@
 
 - ## Cloner le projet :
     ```powershell
-    $ git clone https://github.com/Siillvercrow/TP-Redis-Groupe
+    git clone https://github.com/Siillvercrow/TP-Redis-Groupe
     ```
 - ## Dans le projet, lancer la commande :
     ```powershell
