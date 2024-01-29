@@ -1,4 +1,5 @@
-# TP NoSQL
+# Projet TP NoSQL : Intégration de Redis et MongoDB avec Node.js
+Ce projet, réalisé dans le cadre d'un TP NoSQL, vise à explorer l'intégration de deux technologies de stockage de données NoSQL, Redis et MongoDB, avec une application Node.js. L'objectif est de mettre en œuvre un système de publication et de notification de messages au sein d'un forum, en utilisant Redis pour la gestion des notifications en temps réel et MongoDB pour le stockage des messages.
 
 - ## Cloner le projet :
     ```powershell
