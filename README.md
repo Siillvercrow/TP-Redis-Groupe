@@ -48,4 +48,4 @@
 
 **Group members** : Kamel AKAR, Martin REVOL, Valentin BONOMO
 
-![](https://tenor.com/fr/view/baby-cute-go-cheering-rage-gif-9151059859809802057)
+![](https://cdn.discordapp.com/attachments/1158344715582853232/1201542139348275220/baby-cute.gif?ex=65ca3251&is=65b7bd51&hm=cdde9e674ed5e64ec1a18022c924e962da93e68891e6feaa8f08ad68ddb12e1d&)
