@@ -47,3 +47,5 @@
     - MongoDB stocke les données sous forme de documents JSON BSON, ce qui peut être avantageux si le format des messages varie ou évolue avec le temps.
 
 **Group members** : Kamel AKAR, Martin REVOL, Valentin BONOMO
+
+![](https://tenor.com/fr/view/baby-cute-go-cheering-rage-gif-9151059859809802057)
